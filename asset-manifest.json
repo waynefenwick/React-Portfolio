@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/waynefenwick/React-Portfolio.git/static/css/main.6e3ca819.css",
+    "main.js": "/waynefenwick/React-Portfolio.git/static/js/main.4a47019a.js",
+    "static/media/header-background.png": "/waynefenwick/React-Portfolio.git/static/media/header-background.3423b83afb81a49c6d0d.png",
+    "static/media/movie-reviews.png": "/waynefenwick/React-Portfolio.git/static/media/movie-reviews.4a2bd15021cbcef183f6.png",
+    "static/media/bookshare.png": "/waynefenwick/React-Portfolio.git/static/media/bookshare.b91d9c8947e2dcd52a90.png",
+    "static/media/weather.png": "/waynefenwick/React-Portfolio.git/static/media/weather.9f4c6fee04c0fe57daa7.png",
+    "static/media/coding-quizz.png": "/waynefenwick/React-Portfolio.git/static/media/coding-quizz.c75a0e70a7525850ae71.png",
+    "static/media/guess-game.png": "/waynefenwick/React-Portfolio.git/static/media/guess-game.f20c684e2f0e6e74ee9e.png",
+    "static/media/password-generator.png": "/waynefenwick/React-Portfolio.git/static/media/password-generator.74372201ab756c837657.png",
+    "static/media/Profile-Pic.png": "/waynefenwick/React-Portfolio.git/static/media/Profile-Pic.5c6cc67facad47b53229.png",
+    "index.html": "/waynefenwick/React-Portfolio.git/index.html",
+    "main.6e3ca819.css.map": "/waynefenwick/React-Portfolio.git/static/css/main.6e3ca819.css.map",
+    "main.4a47019a.js.map": "/waynefenwick/React-Portfolio.git/static/js/main.4a47019a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e3ca819.css",
+    "static/js/main.4a47019a.js"
+  ]
+}
