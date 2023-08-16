@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.6bd797d9.css",
-    "main.js": "/React-Portfolio/static/js/main.3fd3df79.js",
+    "main.css": "/React-Portfolio/static/css/main.3129c500.css",
+    "main.js": "/React-Portfolio/static/js/main.bdae5cce.js",
     "static/media/header-background.png": "/React-Portfolio/static/media/header-background.3423b83afb81a49c6d0d.png",
     "static/media/movie-reviews.png": "/React-Portfolio/static/media/movie-reviews.4a2bd15021cbcef183f6.png",
     "static/media/bookshare.png": "/React-Portfolio/static/media/bookshare.b91d9c8947e2dcd52a90.png",
@@ -11,11 +11,11 @@
     "static/media/password-generator.png": "/React-Portfolio/static/media/password-generator.74372201ab756c837657.png",
     "static/media/Profile-Pic.png": "/React-Portfolio/static/media/Profile-Pic.5c6cc67facad47b53229.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.6bd797d9.css.map": "/React-Portfolio/static/css/main.6bd797d9.css.map",
-    "main.3fd3df79.js.map": "/React-Portfolio/static/js/main.3fd3df79.js.map"
+    "main.3129c500.css.map": "/React-Portfolio/static/css/main.3129c500.css.map",
+    "main.bdae5cce.js.map": "/React-Portfolio/static/js/main.bdae5cce.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bd797d9.css",
-    "static/js/main.3fd3df79.js"
+    "static/css/main.3129c500.css",
+    "static/js/main.bdae5cce.js"
   ]
 }
