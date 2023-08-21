@@ -128,10 +128,10 @@ const Content = () => {
                 <ul class="drop-down">
                     <li>Managed up to 30 individual projects</li> 
                     <li>Projects have ranged from small to large</li> 
-                    <li>Extensive problem solving to ensure success in project starts</li> 
+                    <li>Extensive problem solving to ensure successful project kick-offs</li> 
                     <li>Have earned several in-house certifications</li> 
                     <li>Focused on customer relations for successful project management</li>
-                    <li>Always supportive of team members to promote efficient project completion</li>
+                    <li>Team support to promote efficient project completion</li>
                   </ul>
               </li>
               <li>

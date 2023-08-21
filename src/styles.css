@@ -128,7 +128,6 @@ body {
   cursor: default;
 }
 
-
 .profile-personal {
   display: flex;
   flex-direction: row;
@@ -176,6 +175,7 @@ h1, h3 {
   list-style: inside;
   font-size: 12px;
   padding-left: 10px;
+  padding-right: 10px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.3s ease-in-out;
@@ -186,18 +186,15 @@ h1, h3 {
 }
 
 .drop-down-trigger:hover + .drop-down {
-  max-height: 225px;
+  max-height: 270px;
   opacity: 1;
   border-color: var(--red);
   background-color: #4b4948;
 }
 
-
 .drop-down li {
   margin: 1px 0;
 }
-
-
 
 
 /* Portfolio */
